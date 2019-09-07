@@ -1,2 +1,5 @@
 # hello-world
-My first public repo on Git!!
+
+
+Moin Leute, 
+was geht ab??
